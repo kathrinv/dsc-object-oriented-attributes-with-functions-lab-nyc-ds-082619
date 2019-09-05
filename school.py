@@ -1,4 +1,4 @@
-class School:
+class School():
 
     def __init__(self, name=None, roster={}):
         self.name = name
